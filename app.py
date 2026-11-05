@@ -7,7 +7,7 @@ from pathlib import Path
 # CONFIG
 # ──────────────────────────────────────────────
 st.set_page_config(
-    page_title="Churn Predictor",
+    page_title="Churn Predictor prueba de cambio",
     page_icon="📉",
     layout="wide",
     initial_sidebar_state="collapsed",
