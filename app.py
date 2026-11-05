@@ -249,7 +249,7 @@ st.markdown("""
 <div class="topbar">
   <div class="topbar-icon">📉</div>
   <div>
-    <div class="topbar-title">Churn Predictor</div>
+    <div class="topbar-title">Churn Predictor prueba de cambio</div>
     <div class="topbar-sub">Modelo de retención de clientes</div>
   </div>
   <span class="topbar-badge">v2.1 · TOP-10 VARS</span>
